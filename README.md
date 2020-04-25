@@ -73,5 +73,5 @@ The final step of this project is to create a number of visuals to better unders
 6. Because some counties are more densely populated and thus  more COVID_19 cases than others like Los Angeles County, create a trimmed down data set that removes high case outliers. Use the .query() with the argument cases fewer than 1000 to create a new data set called outliers.
 7. Continue to create visualizations with the trimmed data. In particular using the .regplot function of seaborn to see if there is any relationship between the number of Corona Virus cases in counties with a high proportion of high risk individuals.
 
-##Conclusion
+## Conclusion
 While this analysis does not show a definite link between the number of Corona Virus cases and deaths in California counties, it does offer an interesting look at where extra measures might be considered.
