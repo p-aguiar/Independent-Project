@@ -1,0 +1,21 @@
+﻿Variable,Description,Group
+B01003_001E,Unweighted sample count of population,total
+B01002_001E,Median Age,total median age
+B01002_002E,Median Age by Sex,male
+B01002_003E,Median Age by Sex,female
+B01001_018E,Male age,male 60 to 61
+B01001_019E,Male age,male 62 to 64
+B01001_020E,Male age,male 65 to 66
+B01001_021E,male age,male 67 to 69
+B01001_022E,male age,male 70 to 74
+B01001_023E,male age,male 75 to 79
+B01001_024E,male age,male 80 to 84
+B01001_025E,male age,male 85+
+B01001_042E,female age,female 60 to 61
+B01001_043E,female age,female 62 to 64
+B01001_044E,female age,female 65 to 66
+B01001_045E,female age,female 67 to 69
+B01001_046E,female age,female 70 to 74
+B01001_047E,female age,female 75 to 79
+B01001_048E,female age,female 80 to 84
+B01001_049E,female age,female 85+
