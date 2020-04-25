@@ -74,4 +74,4 @@ The final step of this project is to create a number of visuals to better unders
 7. Continue to create visualizations with the trimmed data. In particular using the .regplot function of seaborn to see if there is any relationship between the number of Corona Virus cases in counties with a high proportion of high risk individuals.
 
 ## Conclusion
-While this analysis does not show a definite link between the number of Corona Virus cases and deaths in California counties with a greater number of individuals in high risk groups, it does offer an interesting look at where extra measures might be considered. It additionally gives us an interesting look at California's demographics. 
+While this analysis does not show a definite link between the number of Corona Virus cases and deaths in California counties with a greater number of individuals in high risk groups, it does offer an interesting look at where extra measures might be considered. It additionally gives us insight into California's demographics which can be utilized for other research. 
